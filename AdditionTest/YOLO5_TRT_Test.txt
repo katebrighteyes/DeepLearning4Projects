@@ -31,6 +31,8 @@ make
 
 5. 이미지 테스트
 
+cp ~/DeepLearning4Projects/Chap8_5/detect_video.py .
+
 ./yolov5_det -d yolov5s_voc.engine ../images
 
 6. 영상 테스트
