@@ -37,4 +37,6 @@ make
 
 cd ..
 
+cp ~/DeepLearning4Projects/Chap8_5/detect_video.py .
+
 python3 detect_video.py
